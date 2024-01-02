@@ -1,0 +1,5 @@
+﻿  Daire.cpp
+  test.cpp
+  Kod Üretiliyor...
+x64\Debug\Ucgen.obj : warning LNK4042: Nesne birden çok kez belirtildi; fazla olanlar yoksayıldı
+  geometrik_şekiller.vcxproj -> C:\Users\emirh\source\repos\myproject\myproject\geometrik_şekiller\x64\Debug\geometrik_şekiller.exe
